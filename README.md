@@ -1,4 +1,4 @@
-<img src="https://cutewallpaper.org/23/web-development-wallpaper-hd/be-your-full-stack-web-developer-and-build-your-complete-website-by-pratim440-fiverr.png">
+<img height="300px" width="300px" align="right" src="https://moldech.com/wp-content/uploads/2022/07/96143-developer.gif">
 <h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">I'm a Full stack Web developer passionate about creating interactive single page applications and Knowledgeable in a wide range of programming languages.</h3>
 
